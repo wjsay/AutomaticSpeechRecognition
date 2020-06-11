@@ -19,8 +19,8 @@ public class AutoSpeechRecognizer {
     private static final String TAG = "AutoSpeechRecognizer";
 
     private static final String appKey = "nls-service";
-    private static final String id = "LTAILtpaW9KOS53M";
-    private static final String secret = "iL8LEpKJAGjCsA93sGgc0TD005yovA";
+    private static final String id = "*******";
+    private static final String secret = "***********";
 
     private boolean recognizing;
     private NlsClient mNlsClient;
